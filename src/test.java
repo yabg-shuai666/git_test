@@ -18,5 +18,8 @@ public class test {
         System.out.println("test1.2-cmj");
 
         System.out.println("换网之后1-1yang");
+
+        System.out.println("-----------------------------------");
+        System.out.println("换网之后的1-1-cmj");
     }
 }
