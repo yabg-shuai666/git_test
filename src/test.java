@@ -10,5 +10,8 @@ public class test {
         System.out.println("test1.1-cmj");
         System.out.println("test1.1yang");
         System.out.println("test1.1yang-yang");
+        System.out.println("------------------------------");
+
+        System.out.println("test1.2-cmj");
     }
 }
