@@ -28,4 +28,9 @@ public class test {
         System.out.println("换网之后的2-1-cmj");
         System.out.println("last test");
     }
+
+
+    public void mergeTest(){
+        System.out.println("测试合并分支");
+    }
 }
