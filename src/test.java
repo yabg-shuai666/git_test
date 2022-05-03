@@ -4,6 +4,9 @@
  * @Version 1.0
  */
 public class test {
+    public void addTest(){
+        System.out.println("这是5月3号新增方法");
+    }
     public static void main(String[] args) {
         System.out.println("这是5月3号修改新增字段");
         System.out.println("test");
