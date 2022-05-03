@@ -26,5 +26,6 @@ public class test {
 
         System.out.println("-----------------------------------");
         System.out.println("换网之后的2-1-cmj");
+        System.out.println("last test");
     }
 }
