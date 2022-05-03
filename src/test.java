@@ -48,4 +48,8 @@ public class test {
         System.out.println("测试合并分支");
         System.out.println("&&&&&&&&&&&");
     }
+
+    public void mergeTest3(){
+        System.out.println("测试合并分支");
+    }
 }
