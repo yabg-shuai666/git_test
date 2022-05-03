@@ -33,4 +33,8 @@ public class test {
     public void mergeTest(){
         System.out.println("测试合并分支");
     }
+
+    public void mergeTest1(){
+        System.out.println("测试合并分支");
+    }
 }
